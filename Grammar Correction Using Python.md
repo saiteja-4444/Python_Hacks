@@ -1,6 +1,6 @@
 # Grammar correction in Python
 
-```
+``` python
 pip install textblob
 ```
 ``` python
