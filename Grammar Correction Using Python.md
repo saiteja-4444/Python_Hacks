@@ -1,6 +1,6 @@
 # Grammar correction in Python
 
-``` python
+``` 
 pip install textblob
 ```
 ``` python
@@ -16,7 +16,7 @@ corrected_text = correct_grammer(text)
 print(f"corrected: {corrected_text}")
 ```
 # output
-```
+``` 
 Enter your Sentence: mathemtics
 Corrected: mathematics
 ```
